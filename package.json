@@ -1,0 +1,34 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "express server 4 mern stack todo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodhicougar/my-first-mern-docker-stack.git"
+  },
+  "keywords": [
+    "MERN",
+    "Docker",
+    "MongoDB",
+    "React",
+    "reactjs"
+  ],
+  "author": "bodhicougar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bodhicougar/my-first-mern-docker-stack/issues"
+  },
+  "homepage": "https://github.com/bodhicougar/my-first-mern-docker-stack#readme",
+  "dependencies": {
+    "babel-preset-es2015-node6": "^0.4.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.7",
+    "morgan": "^1.9.1",
+    "source-map-support": "^0.5.9"
+  }
+}
